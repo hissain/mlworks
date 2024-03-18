@@ -19,7 +19,3 @@ Contributions to this repository are welcome! If you have any useful machine lea
 ### License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed for your own projects.
-
----
-
-Feel free to customize this README further based on specific guidelines or additional information you'd like to include!
