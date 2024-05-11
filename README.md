@@ -4,9 +4,9 @@ Welcome to the Machine Learning Code Repository! This repository contains a coll
 
 ### Usage
 
-#### Code Folder (/code)
+#### Code Folder (/codes)
 
-The `/code` folder contains more comprehensive code snippets and modules for tasks such as model generation, fitting, and evaluation. These code files are suitable for larger-scale projects and provide detailed implementations for machine learning tasks.
+The `/codes` folder contains more comprehensive code snippets and modules for tasks such as model generation, fitting, and evaluation. These code files are suitable for larger-scale projects and provide detailed implementations for machine learning tasks.
 
 #### Snippets Folder (/snippets)
 
